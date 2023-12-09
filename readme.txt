@@ -1,5 +1,5 @@
 === Post Last Update Date Block ===
-Contributors:      Nicola Mustone
+Contributors:      nicolamustone
 Tags:              block, gutenberg, date, post, update
 Requires at least: 6.1.0
 Tested up to:      6.4.2
